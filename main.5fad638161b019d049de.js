@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[0],{QfWi:function(e,t,o){"use strict";o.r(t);o("yjly");var n={templateSelect:document.getElementById("tepmplatesForm"),zorenko:document.querySelector(".zorenko")};console.dir(n.templateSelect),n.templateSelect.addEventListener("change",(function(){console.log(n.templateSelect.value),"Отправить реквизиты Зоренко"===n.templateSelect.value?n.zorenko.classList.remove("is-hidden"):n.zorenko.classList.add("is-hidden")}))},yjly:function(e,t,o){}},[["QfWi",1]]]);
+//# sourceMappingURL=main.5fad638161b019d049de.js.map
